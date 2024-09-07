@@ -1,0 +1,18 @@
+/* src/App.css */
+.card {
+  margin: 20px auto;
+  max-width: 600px;
+}
+
+.card img {
+  border-radius: 8px;
+}
+
+.card-body {
+  padding: 20px;
+}
+
+h3 {
+  text-align: center;
+  color: #333;
+}
